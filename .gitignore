@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# venv
+.venv/
+
+# outputs (rebuildable)
+out/
+
+# data: keep small metadata, but avoid big/raw files
+data/raw/
+data/pages/images/
+
+# OS
+.DS_Store
+Thumbs.db
+
+data/pages/texts/
